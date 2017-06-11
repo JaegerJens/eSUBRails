@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace esubmanager.common
+namespace esubmanager.model
 {
     public class TreePath : List<ITreeElement>
     {  }
