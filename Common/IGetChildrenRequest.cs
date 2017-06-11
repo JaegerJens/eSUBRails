@@ -2,6 +2,6 @@ namespace esubmanager.common
 {
     public interface IGetChildrenRequest
     {
-        TreePath ParentElement { get; }
+        TreePath ParentElement { get; set; }
     }
 }
